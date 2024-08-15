@@ -5,6 +5,7 @@
 ## Raspberry Pi 4 환경
 ```
 RASPBERRY PI OS(32-BIT)
+vim Version: 8.x
 vsftpd(ftp 서버) Version: 3.0.3-12
 xrdp(xrdp 서버) Version: 0.9.17
 opencv-python Version: 4.7.0.72
