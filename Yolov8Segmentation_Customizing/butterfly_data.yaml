@@ -1,0 +1,4 @@
+train: /content/datasets/train
+val: /content/datasets/val
+nc: 1
+names: ['butterfly']
