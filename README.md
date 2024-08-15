@@ -1,5 +1,5 @@
 # 딥러닝 - YOLOv8 활용한 Detection 프로젝트
-> Raspberry Pi 4 보드 사용에 OS 코팅하여 사용 <br/> Made By Anthony Ryu <br/> <img src="https://github.com/user-attachments/assets/06007f3d-0c1d-40a8-9d3b-41fe1bc38135" width="400" /> 
+> Raspberry Pi 4 보드 사용에 OS 코팅하여 사용 <br/> Made By Anthony Ryu <br/> <img src="https://github.com/user-attachments/assets/06007f3d-0c1d-40a8-9d3b-41fe1bc38135" width="400" /> <img src="https://github.com/user-attachments/assets/a5c91b1f-e542-4109-ab2e-95ae7cdea6bd" width="400" />
 > 
 
 ## Raspberry Pi 4 
