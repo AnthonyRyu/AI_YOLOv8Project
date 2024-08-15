@@ -24,6 +24,6 @@ fswebcam Version: 20140113-2
 >
 
 ## 사진
-|**로딩 화면**|**메인 화면(D-DAY)**|**D-Day 설정**|
+|**사람 Detection**|**나비 Segmentation**|
 |:---:|:---:|
 | <img width="400" alt="AnthonyRyu" src="https://github.com/user-attachments/assets/42ba53f4-d9cb-4fa7-ae81-675076a22d72"> | <img width="400" alt="AnthonyRyu" src="https://github.com/user-attachments/assets/ef8d0f83-204d-4919-b18d-bd1ac4038304">
